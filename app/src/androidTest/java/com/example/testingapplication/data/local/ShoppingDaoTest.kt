@@ -7,9 +7,6 @@ import androidx.test.core.app.ApplicationProvider
 import androidx.test.ext.junit.runners.AndroidJUnit4
 import androidx.test.filters.SmallTest
 import com.example.testingapplication.getOrAwaitValue
-import com.example.testingapplication.local.ShoppingDao
-import com.example.testingapplication.local.ShoppingItem
-import com.example.testingapplication.local.ShoppingItemDatabase
 import com.google.common.truth.Truth.assertThat
 import kotlinx.coroutines.ExperimentalCoroutinesApi
 import kotlinx.coroutines.runBlocking

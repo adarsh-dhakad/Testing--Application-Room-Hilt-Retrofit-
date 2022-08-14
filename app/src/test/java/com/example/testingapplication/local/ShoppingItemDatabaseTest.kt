@@ -1,3 +1,0 @@
-package com.example.testingapplication.local
-
-class ShoppingItemDatabaseTest
